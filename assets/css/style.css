@@ -38,6 +38,7 @@ h1 {
     margin-left: 25px;
 }
 /*end header styling*/
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -57,8 +58,7 @@ p {
 }
 /*end hero styling*/
 
-/*up to here valid*/
-
+/*start content styling*/
 .content {
     width: 75%;
     display: inline-block;
@@ -81,7 +81,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/*end content div*/
+/*end content styling*/
 
 /*start benefits styling*/
 .benefits {
@@ -118,8 +118,7 @@ h3 {
     color: #ffffff;
 }
 
-
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
